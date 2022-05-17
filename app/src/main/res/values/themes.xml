@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Uyangi" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#008577</item>
+        <item name="colorPrimaryDark">#00574B</item>
+        <item name="colorAccent">#D81B60</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
